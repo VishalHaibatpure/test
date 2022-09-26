@@ -2,6 +2,8 @@
 ![img](test1/test2/test3/)
 [a](https://github.com/k963/test#c)  
 [b](https://github.com/k963/test/blob/master/README.md#c-2)  
+
+<a href="www.example.com" target="_blank">Example</a>
 a  
 a  
 a  
